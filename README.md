@@ -1,3 +1,5 @@
+<img src="cover.png" alt="Imagem gerada por IA" title="Imagem editada com elementos sobre background gerado com Leonardo AI">
+
 ![Python Badge](https://img.shields.io/badge/python-%23ffffff?style=for-the-badge&logo=python&logoColor=%233776AB)
 ![Colab Badge](https://img.shields.io/badge/colab-%23ffffff?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00)
 ![Numpy Badge](https://img.shields.io/badge/numpy-%23ffffff?style=for-the-badge&logo=numpy&logoColor=%23013243)
