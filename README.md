@@ -125,7 +125,7 @@ Essa abordagem multidimensional, ainda que sem rótulos explícitos, permite uma
 
 🔗[![Apresentação](https://img.shields.io/badge/Canva-Apresenta%C3%A7%C3%A3o-grey?style=flat&logo=Canva&logoColor=%2300C4CC&labelColor=%23ffffff)](https://www.canva.com/design/DAGgRIVVTyU/xxw_lX_xLVzVczPAN_4XSg/edit?utm_content=DAGgRIVVTyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-🔗[![Dashboard](https://img.shields.io/badge/Power--BI-Dashboard-grey?style=flat&labelColor=yellow)](https://app.powerbi.com/view?r=eyJrIjoiNTQyYzg2MTgtYWNlZi00ZGY0LThkOGItZGFlODJiYzU1ZTU1IiwidCI6IjQ3MzViMTc4LTMxNWUtNDhjMC04MTExLTY5YzgxNjkyODllZiJ9&pageName=bee5e6cadeb810464770)
+🔗[![Dashboard](https://img.shields.io/badge/Power--BI-Dashboard-grey?style=flat&labelColor=yellow)](https://app.powerbi.com/view?r=eyJrIjoiNTQyYzg2MTgtYWNlZi00ZGY0LThkOGItZGFlODJiYzU1ZTU1IiwidCI6IjQ3MzViMTc4LTMxNWUtNDhjMC04MTExLTY5YzgxNjkyODllZiJ9)
 
 
 ## 🔁 Arquitetura e Fluxo de Dados
