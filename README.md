@@ -125,6 +125,8 @@ Essa abordagem multidimensional, ainda que sem rótulos explícitos, permite uma
 
 🔗[![Apresentação](https://img.shields.io/badge/Canva-Apresenta%C3%A7%C3%A3o-grey?style=flat&logo=Canva&logoColor=%2300C4CC&labelColor=%23ffffff)](https://www.canva.com/design/DAGgRIVVTyU/xxw_lX_xLVzVczPAN_4XSg/edit?utm_content=DAGgRIVVTyU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+🔗![Apresentação PDF](https://img.shields.io/badge/PDF-Apresenta%C3%A7%C3%A3o-grey?logo=googleslides&logoColor=red&labelColor=white&link=walmart-analise-de-fraudes-e-solucoes%2FApresenta%C3%A7%C3%A3o.pdf)
+
 🔗[![Dashboard](https://img.shields.io/badge/Power--BI-Dashboard-grey?style=flat&labelColor=yellow)](https://app.powerbi.com/view?r=eyJrIjoiNTQyYzg2MTgtYWNlZi00ZGY0LThkOGItZGFlODJiYzU1ZTU1IiwidCI6IjQ3MzViMTc4LTMxNWUtNDhjMC04MTExLTY5YzgxNjkyODllZiJ9)
 
 
